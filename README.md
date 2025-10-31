@@ -1,8 +1,8 @@
 # Apache Beam Data Engineering Exercise 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/YOUR_NOTEBOOK_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing)
 
-> **Note:** Replace `YOUR_NOTEBOOK_LINK_HERE` in the badge above with the public shareable link to your Colab notebook.
+(https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing)
 
 This project is a Google Colab notebook created for a data engineering exercise. It demonstrates the core features and concepts of the **Apache Beam** batch and stream processing model by building a complete data pipeline.
 
