@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing)
 
-(https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing)
+https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing
 
 This project is a Google Colab notebook created for a data engineering exercise. It demonstrates the core features and concepts of the **Apache Beam** batch and stream processing model by building a complete data pipeline.
 
