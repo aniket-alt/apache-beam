@@ -1,6 +1,6 @@
 # Apache Beam Data Engineering Exercise 🚀
 
-Google Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing)https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing
+Google Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cHgkJf8O1z8r3SJxF2lIJvbdMyNsBDeP?usp=sharing)
 
 Video Tutorial: https://drive.google.com/drive/folders/1CDo_KDz8co34pRkyPzsLxZTM3eM7t2Zy?usp=sharing
 
